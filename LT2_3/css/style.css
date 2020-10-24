@@ -1,0 +1,75 @@
+@font-face{
+    font-family: "PWMAS"; src: url('../fonts/Please write me a song.ttf'); 
+}
+
+body{
+    background-color: #000;
+}
+.box{
+    background: url(../img/hole.jpg);
+    background-size: 100%;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    height: 60%;
+    text-align: center;
+}
+.box-inner{
+    border: 1px solid rgba(255, 255, 255, 0.151); 
+    display: inline-block;
+    padding: 50px;
+    margin-top: 5%;
+    height: 30%;
+    width: 50%;
+    font-family: "PWMAS";
+    font-weight: normal;
+    font-style: normal;
+    font-size: 60px;
+    text-align: center;
+    color: #ffffff;
+    animation: glow 3s ease-in-out infinite alternate;
+}
+@keyframes glow {
+    from {
+      text-shadow: 0 0 20px rgb(42, 168, 226);
+    }
+    to {
+      text-shadow: 0 0 30px #c13434, 0 0 10px #410808;
+    }
+}
+.box1{
+    border: 1px solid rgba(255, 255, 255, 0.151); 
+    height: 100%;
+    overflow: hidden;
+}
+.box1-1{
+    /* border: 1px solid rgb(0, 255, 242); */
+    background: url(../img/ufo.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 99.7%;
+    width: 49%;
+    animation-name: floating; 
+    animation-duration: 3s; 
+    animation-iteration-count: infinite; 
+    animation-timing-function: ease-in-out; 
+    float: left;
+
+}
+.box1-2{
+    /* border: 1px solid rgb(255, 0, 0); */
+    height: 99.7%;
+    width: 50%;
+    float: right;
+    font-family: "PWMAS";
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+@keyframes floating { 
+    0% { transform: translate(0,  0px); } 
+    50%  { transform: translate(0, 15px); } 
+    100%   { transform: translate(0, -0px); }     
+} 
