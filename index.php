@@ -23,6 +23,7 @@
                 <a href="LT5_1\index.php" target="_blank">Learning Task 5.1</a>
                 <a href="LT6_1\index.php" target="_blank">Learning Task 6.1</a>
                 <a href="LT6_2\index.php" target="_blank">Learning Task 6.2</a>
+                <a href="CLE_2\index.php" target="_blank">Culminating Learning Evidence</a>
               </div>
             </div>  
         </div>
