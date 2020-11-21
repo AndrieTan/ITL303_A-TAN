@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.bg {
+    position: absolute;
+    z-index: -1;
+}
+#yellow_1 {
+    transform: translate(-500px,50px) scale(0.3);
+    position: absolute;
+}
+#yellow_2 {
+    transform: translate(-230px,230px) scale(0.3);
+    position: absolute;
+}
+#yellow_3 {
+    transform: translate(-130px,230px) scale(0.3);
+    position: absolute;
+}
+#yellow_4 {
+    transform: translate(130px,150px) scale(0.3);
+    position: absolute;
+}
+#yellow_5 {
+    transform: translate(230px,181px) scale(0.3);
+    position: absolute;
+}
+#yellow_6 {
+    transform: translate(472px,162px) scale(0.3);
+    position: absolute;
+}
+#yellow_7 {
+    transform: translate(528px,172px) scale(0.3);
+    position: absolute;
+}
+#pink_1 {
+    transform: translate(200px,100px) scale(0.3);
+    position: absolute;
+}
+#pink_2 {
+    transform: translate(-400px,237px) scale(0.3);
+    position: absolute;
+}
+#pink_3 {
+    transform: translate(-223px,250px) scale(0.3);
+    position: absolute;
+}
+#pink_4 {
+    transform: translate(420px,130px) scale(0.3);
+    position: absolute;
+}
+#pink_5 {
+    transform: translate(321px,99px) scale(0.3);
+    position: absolute;
+}
+#pink_6 {
+    transform: translate(-170px,181px) scale(0.3);
+    position: absolute;
+}
+#pink_7 {
+    transform: translate(100px,210px) scale(0.3);
+    position: absolute;
+}
+#red_1 {
+    transform: translate(-525px,220px) scale(0.3);
+    position: absolute;
+}
+#red_2 {
+    transform: translate(-325px,220px) scale(0.3);
+    position: absolute;
+}
+#red_3 {
+    transform: translate(-130px,30px) scale(0.3);
+    position: absolute;
+}
+#red_4 {
+    transform: translate(130px,200px) scale(0.3);
+    position: absolute;
+}
+#red_5 {
+    transform: translate(330px,181px) scale(0.3);
+    position: absolute;
+}
+#red_6 {
+    transform: translate(600px,162px) scale(0.3);
+    position: absolute;
+}
+#red_7 {
+    transform: translate(528px,20px) scale(0.3);
+    position: absolute;
+}
+#white_1 {
+    transform: translate(-430px,210px) scale(0.3);
+    position: absolute;
+}
+#white_2 {
+    transform: translate(-425px,-20px) scale(0.3);
+    position: absolute;
+}
+#white_3 {
+    transform: translate(-215px,-50px) scale(0.3);
+    position: absolute;
+}
+#white_4 {
+    transform: translate(225px,220px) scale(0.3);
+    position: absolute;
+}
+#white_5 {
+    transform: translate(-15px,210px) scale(0.3);
+    position: absolute;
+}
+#white_6 {
+    transform: translate(-60px,-90px) scale(0.3);
+    position: absolute;
+}
+#white_7 {
+    transform: translate(400px,-10px) scale(0.3);
+    position: absolute;
+}
+#floom {
+    transform: translate(500px, 140px);
+    position: absolute;
+    z-index: 99;
+}
