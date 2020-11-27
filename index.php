@@ -25,6 +25,12 @@
                 <a href="LT6_2\index.php" target="_blank">Learning Task 6.2</a>
                 <a href="CLE_2\index.php" target="_blank">Culminating Learning Evidence</a>
               </div>
+            </div>
+            <div class="dropdown">
+            <button class="dropbtn">Endterm</button>
+              <div class="dropdown-content">
+                <a href="LT7_2\index.php" target="_blank">Learning Task 7.2</a>
+              </div>
             </div>  
         </div>
     </body>
