@@ -28,7 +28,7 @@
             <ul>
               <li><a href="https://itl303-a-tan.herokuapp.com/LT2_2/index.php" target="_blank">Learning Task 2.2</a></li>
               <li><a href="https://itl303-a-tan.herokuapp.com/LT2_3/index.php" target="_blank">Learning Task 2.3</a></li>
-              <li><a href="https://itl303-a-tan.herokuapp.com/LT3_2/index.php" target="_blank">learning Task 3.2</a></li>
+              <li><a href="https://itl303-a-tan.herokuapp.com/LT3_2/index.php" target="_blank">Learning Task 3.2</a></li>
               <li><a href="https://itl303-a-tan.herokuapp.com/LT3_3/index.php" target="_blank">Learning Task 3.3</a></li>
               <li><a href="https://itl303-a-tan.herokuapp.com/LT4_1/index.php" target="_blank">Learning Task 4.1</a></li>
               <li><a href="https://itl303-a-tan.herokuapp.com/CLE_1/index.php" target="_blank">Culminating Learning Evidence (Prelim)</a></li>
