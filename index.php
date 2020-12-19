@@ -24,7 +24,7 @@
         <ul class="nav-menu">
           <li class="menu-active"><a href="#hero">Home</a></li>
           <li><a href="#features">About</a></li>
-          <li class="menu-has-children"><a href="">Prelim</a>
+          <li class="menu-has-children"><a href="">CSS</a>
             <ul>
               <li><a href="https://itl303-a-tan.herokuapp.com/LT2_2/index.php" target="_blank">Learning Task 2.2</a></li>
               <li><a href="https://itl303-a-tan.herokuapp.com/LT2_3/index.php" target="_blank">Learning Task 2.3</a></li>
@@ -34,7 +34,7 @@
               <li><a href="https://itl303-a-tan.herokuapp.com/CLE_1/index.php" target="_blank">Culminating Learning Evidence (Prelim)</a></li>
             </ul>
           </li>
-          <li class="menu-has-children"><a href="">Midterm</a>
+          <li class="menu-has-children"><a href="">SVG</a>
             <ul>
               <li><a href="https://itl303-a-tan.herokuapp.com/LT5_1/index.php" target="_blank">Learning Task 5.1</a></li>
               <li><a href="https://itl303-a-tan.herokuapp.com/LT6_1/index.php" target="_blank">Learning Task 6.1</a></li>
@@ -42,7 +42,7 @@
               <li><a href="https://itl303-a-tan.herokuapp.com/CLE_2/index.php" target="_blank">Culminating Learning Evidence (Midterm)</a></li>
             </ul>
           </li>
-          <li class="menu-has-children"><a href="">Endterm</a>
+          <li class="menu-has-children"><a href="">Canvas</a>
             <ul>
               <li><a href="https://itl303-a-tan.herokuapp.com/LT7_2/index.php" target="_blank">Learning Task 7.2</a></li>
             </ul>
